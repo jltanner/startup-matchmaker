@@ -1,0 +1,35 @@
+# Design Notes
+
+background color: #fff
+yellow: #fdf731
+black: #000
+grey: #c6c6c6
+Semi-transparent box: 85% (alpha)..plus find the rgb values for white
+grey border: #ddd
+
+Font (weight): Source Sans Pro (Normal, Bold), Merriweather(Bold, Bold Italic) & Oswald(Bold)
+
+Font code:
+<link href="https://fonts.googleapis.com/css?family=Merriweather:700,700i|Oswald:700|Source+Sans+Pro:400,700" rel="stylesheet">
+
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Oswald', sans-serif;
+
+Logo: 30px, Merriweather, Bold
+Nav links: 20px
+- all uppercase: Oswald, Bold
+- capitalized: Source Sans, Normal
+Tagline: 25px, Merriweather, Bold, Italic
+
+"Meet your match": 30px, Source Sans, Bold
+"Create a profile", "Find a Developer", "Find a Designer" : 25px, Merriweather, Bold
+
+Paragraphs: 20px, Source Sans, Normal
+Buttons: 20px, Oswald, Bold
+- active background color: #666
+
+Footer text: 20px, Source Sans, Normal
+
+For copyright icon use this html entity (include the semicolon):   &copy;
+
